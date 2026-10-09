@@ -1,0 +1,661 @@
+2008|Châtillon (FR)|FR|chatillon-broye.ch|46.833|6.826|mailfilter.evok.ch|S|Evok|CH|
+2011|Cugy (FR)|FR|cugy-fr.ch|46.815|6.891|mx2.spamvor.com mx1.spamvor.com|F|Spamvor|ND|
+2022|Gletterens|FR|gletterens.ch|46.895|6.938|o365|M||US|
+2025|Lully (FR)|FR|lully-fr.ch|46.833|6.845|o365|M||US|
+2029|Montagny (FR)|FR|montagny-fr.ch|46.811|6.992|o365|M||US|
+2035|Nuvilly|FR|nuvilly.ch|46.782|6.831|o365|M||US|
+2038|Prévondavaux|FR|prevondavaux.ch|46.728|6.793|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+2041|Saint-Aubin (FR)|FR|st-aubin.ch|46.890|6.981|mx2.spamvor.com mx1.spamvor.com|F|Spamvor|ND|
+2043|Sévaz|FR|sevaz.ch|46.839|6.875|mx1.spamvor.com mx2.spamvor.com|F|Spamvor|ND|
+2044|Surpierre|FR|surpierre-fr.ch|46.744|6.861|o365|M||US|
+2045|Vallon|FR|vallon.ch|46.885|6.954|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+2050|Les Montets|FR|les-montets.ch|46.816|6.867|mx1.spamvor.com mx2.spamvor.com|F|Spamvor|ND|
+2051|Delley-Portalban|FR|delley-portalban.ch|46.913|6.968|mailfilter.evok.ch|S|Evok|CH|
+2053|Belmont-Broye|FR|belmont-broye.ch|46.867|7.012|mailfilter.evok.ch|S|Evok|CH|
+2054|Estavayer|FR|estavayer.ch|46.850|6.847|mps.telecomservices.ch|S|Telecomservices|CH|spfM
+2055|Cheyres-Châbles|FR|cheyres-chables.ch|46.811|6.788|o365|M||US|
+2056|Fétigny-Ménières|FR|fetigny-menieres.ch|46.796|6.915|o365|M||US|
+2063|Billens-Hennens|FR|billens-hennens.ch|46.683|6.900|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+2067|Le Châtelard|FR|le-chatelard.ch|46.683|6.983|o365|M||US|
+2068|Châtonnaye|FR|chatonnaye.ch|46.750|6.933|o365|M||US|
+2079|Grangettes|FR|grangettes-pres-romont.ch|46.683|6.967|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+2086|Massonnens|FR|massonnens.ch|46.700|6.967|o365|M||US|
+2087|Mézières (FR)|FR|mezieres-fr.ch|46.678|6.926|o365|M||US|
+2096|Romont (FR)|FR|romont.ch|46.700|6.918|o365|M||US|
+2097|Rue|FR|rue.ch|46.617|6.817|o365|M||US|
+2099|Siviriez|FR|siviriez.ch|46.650|6.883|o365|M||US|
+2102|Ursy|FR|ursy.ch|46.633|6.833|o365|M||US|
+2113|Vuisternens-devant-Romont|FR|vuisternens-devant-romont.ch|46.650|6.933|o365|M||US|
+2114|Villorsonnens|FR|villorsonnens.com|46.717|7.000||N|Aucun enregistrement MX sur le domaine|ND|
+2115|Torny|FR|torny.ch|46.767|6.967|mailfilter.evok.ch|S|Evok|CH|
+2117|Villaz|FR|communevillaz.ch|46.720|6.957|mailfilter.evok.ch|S|Evok|CH|
+2121|Haut-Intyamon|FR|haut-intyamon.ch|46.517|7.056|o365|M||US|
+2122|Pont-en-Ogoz|FR|pont-en-ogoz.ch|46.683|7.083|o365|M||US|
+2123|Botterens|FR|botterens.ch|46.617|7.117|o365|M||US|
+2124|Broc|FR|broc.ch|46.600|7.100|o365|M||US|
+2125|Bulle|FR|bulle.ch|46.617|7.050|o365|M||US|
+2128|Châtel-sur-Montsalvens|FR|chatel-montsalvens.ch|46.617|7.133|o365|M||US|
+2129|Corbières|FR|corbieres.ch|46.667|7.100|o365|M||US|
+2130|Crésuz|FR|cresuz.ch|46.617|7.133|o365|M||US|
+2131|Echarlens|FR|echarlens.ch|46.646|7.077|o365|M||US|
+2134|Grandvillard|FR|grandvillard.ch|46.533|7.083|o365|M||US|
+2135|Gruyères|FR|gruyeres.ch|46.584|7.082|o365|M||US|
+2137|Hauteville|FR|hauteville.ch|46.667|7.117|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+2138|Jaun|FR|jaun.ch|46.617|7.267|o365|M||US|
+2140|Marsens|FR|marsens.ch|46.650|7.067|mps.telecomservices.ch|S|Telecomservices|CH|
+2143|Morlon|FR|morlon.ch|46.633|7.083|o365|M||US|
+2145|Le Pâquier (FR)|FR|lepaquier.ch|46.594|7.055|o365|M||US|
+2147|Pont-la-Ville|FR|pont-la-ville.ch|46.700|7.117|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+2148|Riaz|FR|riaz.ch|46.633|7.067|o365|M||US|
+2149|La Roche|FR|la-roche.ch|46.700|7.133|o365|M||US|
+2152|Sâles|FR|sales.ch|46.633|6.967|o365|M||US|
+2153|Sorens|FR|sorens.ch|46.667|7.067|o365|M||US|
+2155|Vaulruz|FR|vaulruz.ch|46.617|6.983|o365|M||US|
+2160|Vuadens|FR|vuadens.ch|46.617|7.017|o365|M||US|
+2162|Bas-Intyamon|FR|bas-intyamon.ch|46.567|7.083|o365|M||US|
+2163|Val-de-Charmey|FR|val-de-charmey.ch|46.619|7.165|cleanmail.safecenter.ch o365|M||US|
+2173|Autigny|FR|autigny.ch|46.740|7.027|o365|M||US|
+2174|Avry|FR|avry.ch|46.783|7.067|mps.telecomservices.ch|S|Telecomservices|CH|spfM
+2175|Belfaux|FR|belfaux.ch|46.829|7.095|o365|M||US|
+2177|Chénens|FR|chenens.ch|46.733|7.000|o365|M||US|
+2183|Corminboeuf|FR|corminboeuf.ch|46.800|7.100|o365|M||US|
+2186|Cottens (FR)|FR|cottens-fr.ch|46.750|7.033|o365|M||US|
+2194|Ferpicloz|FR|ferpicloz.ch|46.750|7.167|mail.ferpicloz.ch|C||ND|spf:Kreativmedia
+2196|Fribourg|FR|ville-fribourg.ch|46.800|7.150|mail.ville-fr.ch|C||ND|spf:Infomaniak
+2197|Givisiez|FR|givisiez.ch|46.817|7.133|o365|M||US|
+2198|Granges-Paccot|FR|granges-paccot.ch|46.817|7.150|o365|M||US|
+2206|Marly|FR|marly.ch|46.783|7.167|marly-ch-2.fortimailcloud.com marly-ch-1.fortimailcloud.com|F|FortiMail Cloud|CHUS|
+2208|Matran|FR|matran.ch|46.784|7.091|o365|M||US|
+2211|Neyruz (FR)|FR|neyruz.ch|46.767|7.067|o365|M||US|
+2216|Pierrafortscha|FR|pierrafortscha.ch|46.783|7.183|o365|M||US|
+2220|Le Mouret|FR|le-mouret.ch|46.750|7.167|o365|M||US|
+2226|Treyvaux|FR|treyvaux.ch|46.733|7.133|mps.telecomservices.ch|S|Telecomservices|CH|spfM
+2228|Villars-sur-Glâne|FR|villars-sur-glane.ch|46.783|7.117|o365|M||US|
+2230|Villarsel-sur-Marly|FR|villarsel-sur-marly.ch|46.767|7.167|mx02.senselan.ch mx03.senselan.ch|S|Senselan|CH|
+2233|Hauterive (FR)|FR|hauterivefr.ch|46.767|7.117|o365|M||US|
+2234|La Brillaz|FR|labrillaz.ch|46.767|7.000|cleanmail.safecenter.ch|S|Safecenter|CH|spfM
+2235|La Sonnaz|FR|lasonnaz.ch|46.834|7.109|o365|M||US|
+2236|Gibloux|FR|commune-gibloux.ch|46.721|7.064|o365|M||US|
+2237|Prez|FR|prez.ch|46.785|7.013|o365|M||US|
+2238|Bois-d'Amont|FR|bois-damont.ch|46.755|7.146|o365|M||US|
+2239|Grolley-Ponthaux|FR|grolley-ponthaux.ch|46.833|7.067|o365|M||US|
+2250|Courgevaux|FR|courgevaux-gurwolf.ch|46.907|7.112|mail.courgevaux-gurwolf.ch|C||ND|spf:Sui-Inter
+2254|Courtepin|FR|courtepin.ch|46.867|7.117|o365|M||US|
+2257|Cressier (FR)|FR|cressier.ch|46.900|7.133|mailfilter.evok.ch|S|Evok|CH|
+2258|Fräschels|FR|fraeschels.ch|47.000|7.200|o365|M||US|
+2261|Greng|FR|greng.ch|46.917|7.100|o365|M||US|
+2262|Gurmels|FR|gurmels.ch|46.900|7.167|o365|M||US|
+2265|Kerzers|FR|kerzers.ch|46.983|7.200|mx1.rufcloud.ch mx2.rufcloud.ch|S|Ruf Cloud|CH|
+2266|Kleinbösingen|FR|kleinboesingen.ch|46.900|7.200|o365|M||US|
+2271|Meyriez|FR|merlach.ch|46.917|7.117|mail.merlach.ch mail2.merlach.ch|C||ND|
+2272|Misery-Courtion|FR|misery-courtion.ch|46.850|7.067|o365|M||US|
+2274|Muntelier|FR|muntelier.ch|46.939|7.130|o365|M||US|
+2275|Murten|FR|murten-morat.ch|46.928|7.117|mx1.rufcloud.ch mx2.rufcloud.ch|S|Ruf Cloud|CH|
+2276|Ried bei Kerzers|FR|ried.ch|46.963|7.181|o365|M||US|
+2284|Mont-Vully|FR|mont-vully.ch|46.962|7.112|montvully.onmicrosoft.com o365|M||US|
+2292|Brünisried|FR|bruenisried.ch|46.767|7.283|mx02.senselan.ch mx01.senselan.ch|S|Senselan|CH|
+2293|Düdingen|FR|duedingen.ch|46.846|7.191|o365|M||US|
+2294|Giffers|FR|giffers.ch|46.761|7.210|o365|M||US|
+2295|Bösingen|FR|boesingen.ch|46.900|7.233|o365|M||US|
+2296|Heitenried|FR|heitenried.ch|46.828|7.304|o365|M||US|
+2299|Plaffeien|FR|plaffeien.ch|46.741|7.287|o365|M||US|
+2300|Plasselb|FR|plasselb.ch|46.733|7.250|o365|M||US|
+2301|Rechthalten|FR|rechthalten.ch|46.763|7.246|o365|M||US|
+2303|St. Silvester|FR|stsilvester.ch|46.738|7.221|o365|M||US|
+2304|St. Ursen|FR|stursen.ch|46.787|7.224|o365|M||US|
+2305|Schmitten (FR)|FR|schmitten.ch|46.850|7.250|o365|M||US|
+2306|Tafers|FR|tafers.ch|46.815|7.216|o365|M||US|
+2307|Tentlingen|FR|tentlingen.ch|46.767|7.200|o365|M||US|
+2308|Ueberstorf|FR|ueberstorf.ch|46.870|7.326|o365|M||US|
+2309|Wünnewil-Flamatt|FR|wuennewil-flamatt.ch|46.867|7.283|o365|M||US|
+2321|Attalens|FR|attalens.ch|46.510|6.849|o365|M||US|
+2323|Bossonnens|FR|bossonnens.ch|46.517|6.850|mailfilter.evok.ch|S|Evok|CH|
+2325|Châtel-Saint-Denis|FR|chatel-st-denis.ch|46.527|6.901|o365|M||US|
+2328|Granges (Veveyse)|FR|granges-veveyse.ch|46.517|6.833|mailfilter.evok.ch|S|Evok|CH|
+2333|Remaufens|FR|remaufens.ch|46.517|6.867|mailfilter.evok.ch|S|Evok|CH|
+2335|Saint-Martin (FR)|FR|saint-martin-fr.ch|46.583|6.867|o365|M||US|
+2336|Semsales|FR|semsales.ch|46.567|6.933|mailfilter.evok.ch|S|Evok|CH|
+2337|Le Flon|FR|leflon.ch|46.617|6.883|o365|M||US|
+2338|La Verrerie|FR|laverrerie.ch|46.617|6.917|o365|M||US|
+5401|Aigle|VD|aigle.ch|46.317|6.965|lastmx.spamexperts.net mx.spamexperts.com|M|Microsoft (derrière filtrage SpamExperts)|US|
+5402|Bex|VD|bex.ch|46.250|7.017|o365|M||US|
+5403|Chessel|VD|chessel.ch|46.350|6.896|o365|M||US|
+5404|Corbeyrier|VD|corbeyrier.ch|46.370|6.980|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5405|Gryon|VD|gryon.ch|46.291|7.098|o365|M||US|
+5406|Lavey-Morcles|VD|lavey.ch|46.200|7.033|o365|M||US|
+5407|Leysin|VD|leysin.ch|46.333|7.000|mps.telecomservices.ch|S|Telecomservices|CH|spfM
+5408|Noville|VD|noville.ch|46.383|6.900|o365|M||US|
+5409|Ollon|VD|ollon.ch|46.297|6.994|mx1-eu1.ppe-hosted.com mx2-eu1.ppe-hosted.com|M|Microsoft (derrière filtrage Proofpoint)|US|
+5410|Ormont-Dessous|VD|ormont-dessous.ch|46.367|7.050|o365|M||US|
+5411|Ormont-Dessus|VD|ormont-dessus.ch|46.350|7.150|o365|M||US|
+5412|Rennaz|VD|rennaz.ch|46.367|6.917|o365|M||US|
+5413|Roche (VD)|VD|roche-vd.ch|46.350|6.917|o365|M||US|
+5414|Villeneuve (VD)|VD|villeneuve.ch|46.396|6.925|mailfilter.evok.ch|S|Evok|CH|
+5415|Yvorne|VD|yvorne.ch|46.333|6.950|o365|M||US|
+5422|Aubonne|VD|aubonne.ch|46.500|6.383|o365|M||US|
+5423|Ballens|VD|ballens.ch|46.550|6.367|o365|M||US|
+5424|Berolle|VD|berolle.ch|46.550|6.333|mail.berolle.ch|C||ND|spf:Kreativmedia
+5425|Bière|VD|biere-vd.ch|46.533|6.333|o365|M||US|
+5426|Bougy-Villars|VD|bougy-villars.ch|46.483|6.350|o365|M||US|
+5427|Féchy|VD|fechy.ch|46.483|6.367|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5428|Gimel|VD|gimel.ch|46.510|6.307|o365|M||US|
+5429|Longirod|VD|longirod.ch|46.500|6.267|o365|M||US|
+5430|Marchissy|VD|marchissy.ch|46.488|6.247|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5431|Mollens (VD)|VD|mollensvd.ch|46.583|6.367|o365|M||US|
+5434|Saint-George|VD|stgeorge.ch|46.517|6.267|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5435|Saint-Livres|VD|st-livres.ch|46.510|6.386|o365|M||US|
+5436|Saint-Oyens|VD|saint-oyens.ch|46.500|6.317|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5437|Saubraz|VD|saubraz.ch|46.517|6.333|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5451|Avenches|VD|avenches.ch|46.880|7.040|o365|M||US|
+5456|Cudrefin|VD|cudrefin.ch|46.952|7.027|o365|M||US|
+5458|Faoug|VD|faoug.ch|46.902|7.074|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5464|Vully-les-Lacs|VD|vully-les-lacs.ch|46.924|7.023|o365|M||US|
+5471|Bettens|VD|commune-bettens.ch|46.633|6.583||N|Aucun enregistrement MX sur le domaine|ND|
+5472|Bournens|VD|bournens.ch|46.600|6.567|o365|M||US|
+5473|Boussens|VD|boussens.ch|46.600|6.583|o365|M||US|
+5474|La Chaux (Cossonay)|VD|lachaux.ch|46.616|6.473|o365|M||US|
+5475|Chavannes-le-Veyron|VD|chavannes-le-veyron.ch|46.600|6.450|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5476|Chevilly|VD|chevilly.ch|46.650|6.483|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5477|Cossonay|VD|cossonay.ch|46.617|6.517|o365|M||US|
+5479|Cuarnens|VD|cuarnens.ch|46.633|6.433|o365|M||US|
+5480|Daillens|VD|daillens.ch|46.617|6.550|o365|M||US|
+5481|Dizy|VD|dizy.ch|46.633|6.500|o365|M||US|
+5482|Eclépens|VD|eclepens.ch|46.650|6.533|o365|M||US|
+5483|Ferreyres|VD|ferreyres.ch|46.667|6.483|mail01.swisscenter.com|S|Swisscenter|CH|
+5484|Gollion|VD|gollion.ch|46.583|6.517|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5485|Grancy|VD|grancy.ch|46.592|6.466|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5486|L'Isle|VD|lisle.ch|46.617|6.417|o365|M||US|
+5487|Lussery-Villars|VD|lussery-villars.ch|46.633|6.533|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5488|Mauraz|VD|mauraz.ch|46.600|6.417|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5489|Mex (VD)|VD|mex.ch|46.578|6.559|o365|M||US|
+5490|Moiry|VD|moiry.ch|46.650|6.450|mail.moiry.ch|C||ND|spf:Kreativmedia
+5491|Mont-la-Ville|VD|mont-la-ville.ch|46.646|6.409|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5492|Montricher|VD|montricher.ch|46.600|6.367|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5493|Orny|VD|orny.ch|46.668|6.527|o365|M||US|
+5495|Penthalaz|VD|penthalaz.ch|46.613|6.529|cloud8.spamtitan.com cloud7.spamtitan.com|M|Microsoft (derrière filtrage SpamTitan)|US|
+5496|Penthaz|VD|penthaz.ch|46.600|6.533|o365|M||US|
+5497|Pompaples|VD|pompaples.ch|46.667|6.517|o365|M||US|
+5498|La Sarraz|VD|lasarraz.ch|46.658|6.508|o365|M||US|
+5499|Senarclens|VD|senarclens.ch|46.600|6.483|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5501|Sullens|VD|sullens.ch|46.600|6.567|mailfilter.evok.ch|S|Evok|CH|
+5503|Vufflens-la-Ville|VD|vufflens-la-ville.ch|46.583|6.533|o365|M||US|
+5511|Assens|VD|assens.ch|46.618|6.627|o365|M||US|
+5512|Bercher|VD|bercher-vd.ch|46.692|6.706|o365|M||US|
+5514|Bottens|VD|bottens.ch|46.617|6.667|o365|M||US|
+5515|Bretigny-sur-Morrens|VD|bretigny.ch|46.600|6.633|o365|M||US|
+5516|Cugy (VD)|VD|cugy-vd.ch|46.581|6.644|o365|M||US|
+5518|Echallens|VD|echallens.ch|46.633|6.633|mx4.mtaroutes.com mx1.mtaroutes.com|F|MTA Routes|ND|
+5520|Essertines-sur-Yverdon|VD|essertines-sur-yverdon.ch|46.717|6.633|o365|M||US|
+5521|Etagnières|VD|etagnieres.ch|46.600|6.617|o365|M||US|
+5522|Fey|VD|fey-vd.ch|46.673|6.680|o365|M||US|
+5523|Froideville|VD|froideville.ch|46.598|6.692|mailgate2.ti-informatique.com|S|T.I. Informatique|CH|
+5527|Morrens (VD)|VD|morrens.ch|46.583|6.633|o365|M||US|
+5529|Oulens-sous-Echallens|VD|oulens.ch|46.650|6.583|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5530|Pailly|VD|pailly.ch|46.700|6.673|o365|M||US|
+5531|Penthéréaz|VD|penthereaz.ch|46.683|6.600|o365|M||US|
+5533|Poliez-Pittet|VD|poliez-pittet.ch|46.633|6.683|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5534|Rueyres|VD|rueyres.ch|46.694|6.694|cm.cleanmail.ch|S|Cleanmail|CH|
+5535|Saint-Barthélemy (VD)|VD|st-barthelemy.ch|46.633|6.600|o365|M||US|
+5537|Villars-le-Terroir|VD|villars-le-terroir.ch|46.650|6.633|o365|M||US|
+5539|Vuarrens|VD|vuarrens.ch|46.683|6.650|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5540|Montilliez|VD|montilliez.ch|46.650|6.667|mailfilter.pinhaotec.com|A|Pinhaotec|ND|
+5541|Goumoëns|VD|goumoens.ch|46.650|6.600|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5551|Bonvillars|VD|bonvillars.ch|46.838|6.671|mta.witecom.ch|S|Witecom|CH|
+5552|Bullet|VD|bullet.ch|46.843|6.557|o365|M||US|
+5553|Champagne|VD|champagne.ch|46.836|6.652|o365|M||US|
+5554|Concise|VD|concise.ch|46.851|6.721|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5555|Corcelles-près-Concise|VD|corcelles-concise.ch|46.833|6.700|o365|M||US|
+5556|Fiez|VD|fiez.ch|46.833|6.617|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5557|Fontaines-sur-Grandson|VD|fontaines-sur-grandson.ch|46.833|6.617|mail.fontaines-sur-grandson.ch|C||ND|spf:Kreativmedia
+5559|Giez|VD|giez.ch|46.817|6.617|o365|M||US|
+5560|Grandevent|VD|grandevent.ch|46.833|6.600|o365|M||US|
+5561|Grandson|VD|grandson.ch|46.809|6.644|mta.witecom.ch|S|Witecom|CH|
+5562|Mauborget|VD|mauborget.ch|46.867|6.608|mx1.swisscenter.com|S|Swisscenter|CH|
+5563|Mutrux|VD||46.883|6.717||N|Pas de site officiel référencé|ND|
+5564|Novalles|VD|novalles.ch|46.817|6.583|mail.horus.ch|S|Horus|CH|
+5565|Onnens (VD)|VD|onnens.ch|46.833|6.683|mta.witecom.ch|S|Witecom|CH|
+5566|Provence|VD|provence.ch|46.901|6.684|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5568|Sainte-Croix|VD|sainte-croix.ch|46.824|6.489|mx-01-eu-central-1.prod.hydra.sophos.com mx-02-eu-central-1.prod.hydra.sophos.com|F|Sophos|ND|
+5571|Tévenon|VD|villars-burquin.ch|46.847|6.626|mx1.rufcloud.ch mx2.rufcloud.ch|S|Ruf Cloud|CH|
+5581|Belmont-sur-Lausanne|VD|belmont.ch|46.526|6.688|mail.pully.ch etrn-01.vtx.ch|S|VTX|CH|
+5582|Cheseaux-sur-Lausanne|VD|cheseaux.ch|46.583|6.600|o365|M||US|
+5583|Crissier|VD|crissier.ch|46.550|6.583|o365|M||US|
+5584|Epalinges|VD|epalinges.ch|46.550|6.667|o365|M||US|
+5585|Jouxtens-Mézery|VD|jouxtens-mezery.ch|46.550|6.600|o365|M||US|
+5586|Lausanne|VD|lausanne.ch|46.533|6.633|mxvdl.lausanne.ch|C||ND|
+5587|Le Mont-sur-Lausanne|VD|lemontsurlausanne.ch|46.550|6.633|remote.lemontsurlausanne.ch|C||ND|spf:Infomaniak
+5588|Paudex|VD|paudex.ch|46.508|6.674|mailgate2.ti-informatique.com|S|T.I. Informatique|CH|
+5589|Prilly|VD|prilly.ch|46.533|6.600|mail.prilly.ch mail2.prilly.ch|C||ND|spf:Infomaniak
+5590|Pully|VD|pully.ch|46.517|6.667|mail.pully.ch etrn-01.vtx.ch|S|VTX|CH|
+5591|Renens (VD)|VD|renens.ch|46.535|6.590|o365|M||US|
+5592|Romanel-sur-Lausanne|VD|romanel-sur-lausanne.ch|46.567|6.600|o365|M||US|
+5601|Chexbres|VD|chexbres.ch|46.484|6.780|o365|M||US|
+5604|Forel (Lavaux)|VD|forel.ch|46.538|6.763|o365|M||US|
+5606|Lutry|VD|lutry.ch|46.515|6.699|mail2.lutry.rcv.ch mail.lutry.rcv.ch|P|RCV (réseau cantonal vaudois)|CH|spfM
+5607|Puidoux|VD|puidoux.ch|46.483|6.767|o365|M||US|
+5609|Rivaz|VD|rivaz.ch|46.476|6.779|o365|M||US|
+5610|Saint-Saphorin (Lavaux)|VD|saint-saphorin.ch|46.467|6.800|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5611|Savigny|VD|savigny.ch|46.567|6.717|o365|M||US|
+5613|Bourg-en-Lavaux|VD|b-e-l.ch|46.500|6.717|mx1-eu1.ppe-hosted.com mx2-eu1.ppe-hosted.com|F|Proofpoint|CHUS|
+5621|Aclens|VD|aclens.ch|46.567|6.517|o365|M||US|
+5622|Bremblens|VD|bremblens.ch|46.550|6.517|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5623|Buchillon|VD|buchillon.ch|46.467|6.417|o365|M||US|
+5624|Bussigny|VD|bussigny.ch|46.550|6.550|o365|M||US|
+5627|Chavannes-près-Renens|VD|chavannes.ch|46.528|6.576|o365|M||US|
+5628|Chigny|VD|chigny.ch|46.520|6.477|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5629|Clarmont|VD|clarmont.ch|46.550|6.450|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5631|Denens|VD|denens.ch|46.517|6.450|o365|M||US|
+5632|Denges|VD|denges.ch|46.523|6.539|o365|M||US|
+5633|Echandens|VD|echandens.ch|46.533|6.550|mx1.azinformatique.ch mx4.azinformatique.ch|S|AZ Informatique|CH|
+5634|Echichens|VD|echichens.ch|46.533|6.500|o365|M||US|
+5635|Ecublens (VD)|VD|ecublens.ch|46.528|6.561|o365|M||US|
+5636|Etoy|VD|etoy.ch|46.483|6.417|o365|M||US|
+5637|Lavigny|VD|lavigny.ch|46.501|6.408|alt1.aspmx.l.google.com aspmx.l.google.com|G||US|
+5638|Lonay|VD|lonay.ch|46.533|6.517|o365|M||US|
+5639|Lully (VD)|VD|lully.ch|46.500|6.467|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5640|Lussy-sur-Morges|VD|lussy-sur-morges.ch|46.500|6.450|o365|M||US|
+5642|Morges|VD|morges.ch|46.509|6.499|mx1.hc1035-98.eu.iphmx.com mx2.hc1035-98.eu.iphmx.com|F|Cisco Secure Email|CHUS|
+5643|Préverenges|VD|preverenges.ch|46.517|6.533|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5645|Romanel-sur-Morges|VD|romanel-sur-morges.ch|46.550|6.517|o365|M||US|
+5646|Saint-Prex|VD|saint-prex.ch|46.484|6.457|o365|M||US|
+5648|Saint-Sulpice (VD)|VD|st-sulpice.ch|46.517|6.567|o365|M||US|
+5649|Tolochenaz|VD|tolochenaz.ch|46.500|6.467|o365|M||US|
+5650|Vaux-sur-Morges|VD|vaux-sur-morges.ch|46.533|6.467|o365 mta-gw.infomaniak.ch|M||US|
+5651|Villars-Sainte-Croix|VD|villars-sainte-croix.ch|46.567|6.567|o365|M||US|
+5652|Villars-sous-Yens|VD|villars-sous-yens.ch|46.517|6.433|o365|M||US|
+5653|Vufflens-le-Château|VD|vufflens-le-chateau.ch|46.526|6.467|o365|M||US|
+5654|Vullierens|VD|vullierens.ch|46.573|6.481|o365|M||US|
+5655|Yens|VD|yens.ch|46.527|6.407|o365|M||US|
+5656|Hautemorges|VD|hautemorges.ch|46.566|6.425|o365|M||US|
+5661|Boulens|VD|boulens.ch|46.683|6.717|mail.boulens.ch|C||ND|spf:Kreativmedia
+5663|Bussy-sur-Moudon|VD|bussy-sur-moudon.ch|46.683|6.817|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5665|Chavannes-sur-Moudon|VD|chavannes-sur-moudon.ch|46.650|6.800|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5669|Curtilles|VD|curtilles.ch|46.700|6.850|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5671|Dompierre (VD)|VD|dompierre-vd.ch|46.711|6.880|o365|M||US|
+5673|Hermenches|VD|hermenches.ch|46.633|6.767|o365|M||US|
+5674|Lovatens|VD|lovatens.ch|46.683|6.867|srv.lovatens.ch|C||ND|spf:Swizzonic
+5675|Lucens|VD|lucens.ch|46.709|6.837|o365|M||US|
+5678|Moudon|VD|moudon.ch|46.669|6.797|o365|M||US|
+5680|Ogens|VD|ogens.ch|46.717|6.717|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5683|Prévonloup|VD|prevonloup.ch|46.700|6.883|aspmx3.googlemail.com aspmx2.googlemail.com|G||US|
+5684|Rossenges|VD|rossenges.ch|46.650|6.783|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5688|Syens|VD|syens.ch|46.650|6.783|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5690|Villars-le-Comte|VD|villars-le-comte.ch|46.717|6.800|mx1.swisscenter.com|S|Swisscenter|CH|
+5692|Vucherens|VD|vucherens.ch|46.617|6.800|o365|M||US|
+5693|Montanaire|VD|montanaire.ch|46.667|6.733|o365|M||US|
+5701|Arnex-sur-Nyon|VD|arnex-sur-nyon.ch|46.367|6.183|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5702|Arzier-Le Muids|VD|arzier.ch|46.455|6.213|o365|M||US|
+5703|Bassins|VD|bassins.ch|46.467|6.233|o365|M||US|
+5704|Begnins|VD|begnins.ch|46.433|6.250|o365|M||US|
+5705|Bogis-Bossey|VD|bogis-bossey.ch|46.350|6.167|o365|M||US|
+5706|Borex|VD|borex.ch|46.379|6.178|o365|M||US|
+5707|Chavannes-de-Bogis|VD|chavannes-de-bogis.ch|46.350|6.167|o365|M||US|
+5708|Chavannes-des-Bois|VD|chavannes-des-bois.ch|46.317|6.133|o365|M||US|
+5709|Chéserex|VD|cheserex.ch|46.417|6.167|o365|M||US|
+5710|Coinsins|VD|coinsins.ch|46.417|6.233|o365|M||US|
+5711|Commugny|VD|commugny.ch|46.317|6.183|o365|M||US|
+5712|Coppet|VD|coppet.ch|46.321|6.189|o365|M||US|
+5713|Crans (VD)|VD|crans-pres-celigny.ch|46.350|6.200||N|Aucun enregistrement MX sur le domaine|ND|
+5714|Crassier|VD|crassier.ch|46.367|6.167|o365|M||US|
+5715|Duillier|VD|duillier.ch|46.417|6.233|o365|M||US|
+5716|Eysins|VD|eysins.ch|46.383|6.200|o365|M||US|
+5717|Founex|VD|founex.ch|46.336|6.185|o365|M||US|
+5718|Genolier|VD|genolier.ch|46.433|6.217|o365|M||US|
+5719|Gingins|VD|gingins.ch|46.417|6.183|o365|M||US|
+5720|Givrins|VD|givrins.ch|46.433|6.200|o365|M||US|
+5721|Gland|VD|gland.ch|46.417|6.267|o365|M||US|
+5722|Grens|VD|grens.ch|46.394|6.191|o365|M||US|
+5723|Mies|VD|mies.ch|46.300|6.167|o365|M||US|
+5724|Nyon|VD|nyon.ch|46.382|6.239|mail2.rcv.ch mail.rcv.ch|P|RCV (réseau cantonal vaudois)|CH|spfM
+5725|Prangins|VD|prangins.ch|46.400|6.250|mx2-eu1.ppe-hosted.com o365|M||US|
+5726|La Rippe|VD|larippe.ch|46.383|6.150|o365|M||US|
+5727|Saint-Cergue|VD|st-cergue.ch|46.450|6.150|o365|M||US|
+5728|Signy-Avenex|VD|signy-avenex.ch|46.390|6.197|mx.swizzonic.email|S|Swizzonic|CH|
+5729|Tannay|VD|tannay.ch|46.300|6.183|o365|M||US|
+5730|Trélex|VD|trelex.ch|46.417|6.200|o365|M||US|
+5731|Le Vaud|VD|levaud.ch|46.477|6.234|o365|M||US|
+5732|Vich|VD|vich.ch|46.433|6.250|o365|M||US|
+5741|L'Abergement|VD|labergement.ch|46.750|6.483|o365|M||US|
+5742|Agiez|VD|agiez.ch|46.717|6.500|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5743|Arnex-sur-Orbe|VD|arnex-sur-orbe.ch|46.700|6.517|o365|M||US|
+5744|Ballaigues|VD|ballaigues.ch|46.733|6.417|o365|M||US|
+5745|Baulmes|VD|baulmes.ch|46.783|6.517|mta.witecom.ch|S|Witecom|CH|
+5746|Bavois|VD|bavois.ch|46.683|6.567|o365|M||US|
+5747|Bofflens|VD|bofflens.ch|46.700|6.500|o365|M||US|
+5748|Bretonnières|VD|1329.ch|46.717|6.467|eforward2.registrar-servers.com eforward5.registrar-servers.com|A|Namecheap|ND|
+5749|Chavornay|VD|chavornay.ch|46.706|6.569|o365|M||US|
+5750|Les Clées|VD|lesclees.ch|46.733|6.467|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5752|Croy|VD|croy.ch|46.694|6.476|o365|M||US|
+5754|Juriens|VD|juriens.ch|46.683|6.450|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5755|Lignerolle|VD||46.733|6.450||N|Pas de site officiel référencé|ND|
+5756|Montcherand|VD|montcherand.ch|46.733|6.517|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5757|Orbe|VD|orbe.ch|46.724|6.532|o365|M||US|
+5758|La Praz|VD|lapraz.ch|46.667|6.433|mail.horus.ch|S|Horus|CH|
+5759|Premier|VD|premier.ch|46.704|6.446|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5760|Rances|VD|rances.ch|46.766|6.508|o365|M||US|
+5761|Romainmôtier-Envy|VD|romainmotier.ch|46.700|6.467|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5762|Sergey|VD|sergey.ch|46.751|6.501|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5763|Valeyres-sous-Rances|VD|valeyres-sous-rances.ch|46.750|6.533|o365|M||US|
+5764|Vallorbe|VD|vallorbe.ch|46.717|6.383|o365|M||US|
+5765|Vaulion|VD|vaulion.ch|46.683|6.383|o365|M||US|
+5766|Vuiteboeuf|VD|vuiteboeuf.ch|46.808|6.549|o365|M||US|
+5785|Corcelles-le-Jorat|VD|corcelles-le-jorat.ch|46.600|6.750|o365|M||US|
+5790|Maracon|VD|maracon.ch|46.559|6.879|o365|M||US|
+5792|Montpreveyres|VD|montpreveyres.ch|46.583|6.733|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5798|Ropraz|VD|ropraz.ch|46.611|6.754|o365|M||US|
+5799|Servion|VD|servion.ch|46.567|6.783|o365|M||US|
+5803|Vulliens|VD|vulliens.ch|46.617|6.800|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5804|Jorat-Menthue|VD|jorat-menthue.ch|46.650|6.717|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5805|Oron|VD|oron.ch|46.567|6.833|oron-ch.gate.seppmail.cloud|F|SEPPmail|ND|
+5806|Jorat-Mézières|VD|jorat-mezieres.ch|46.596|6.770|owa.jorat-mezieres.ch|C||ND|spfM
+5812|Champtauroz|VD|champtauroz.ch|46.767|6.783|o365|M||US|
+5813|Chevroux|VD|chevroux.ch|46.883|6.900|o365|M||US|
+5816|Corcelles-près-Payerne|VD|corcelles.ch|46.833|6.967|o365|M||US|
+5817|Grandcour|VD|grandcour.ch|46.872|6.929|o365|M||US|
+5819|Henniez|VD|commune-henniez.ch|46.750|6.883|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5821|Missy|VD|missy.ch|46.876|6.974|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5822|Payerne|VD|payerne.ch|46.817|6.933|mail.rcv.ch mail2.rcv.ch|P|RCV (réseau cantonal vaudois)|CH|
+5827|Trey|VD|trey.ch|46.767|6.917|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5828|Treytorrens (Payerne)|VD|treytorrens.ch|46.767|6.800|mail.treytorrens.ch|C||ND|spf:Kreativmedia
+5830|Villarzel|VD|villarzel.ch|46.750|6.917|o365|M||US|
+5831|Valbroye|VD|valbroye.ch|46.763|6.887|o365|M||US|
+5841|Château-d'Oex|VD|chateaudoex-admin.ch|46.467|7.117|mail2.chateaudoex-admin.rcv.ch mail.chateaudoex-admin.rcv.ch|P|RCV (réseau cantonal vaudois)|CH|
+5842|Rossinière|VD|rossiniere.ch|46.467|7.083|o365|M||US|
+5843|Rougemont|VD|rougemont.ch|46.500|7.209|o365|M||US|
+5851|Allaman|VD|allaman.ch|46.467|6.400|o365|M||US|
+5852|Bursinel|VD|bursinel.ch|46.433|6.300|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5853|Bursins|VD|bursins.ch|46.450|6.283|o365|M||US|
+5854|Burtigny|VD|burtigny.ch|46.467|6.250|o365|M||US|
+5855|Dully|VD|dully.ch|46.433|6.300|o365|M||US|
+5856|Essertines-sur-Rolle|VD|essertines-sur-rolle.ch|46.500|6.317|o365|M||US|
+5857|Gilly|VD|gilly.ch|46.450|6.300|o365|M||US|
+5858|Luins|VD|luins.ch|46.450|6.267|o365|M||US|
+5859|Mont-sur-Rolle|VD|mont-sur-rolle.ch|46.467|6.333|o365|M||US|
+5860|Perroy|VD|perroy.ch|46.467|6.367|o365|M||US|
+5861|Rolle|VD|rolle.ch|46.458|6.332|o365|M||US|
+5862|Tartegnin|VD|tartegnin.ch|46.467|6.316|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5863|Vinzel|VD|vinzel.ch|46.450|6.277|vinzel.ch|C||ND|spf:Tizoo
+5871|L'Abbaye|VD|labbaye.ch|46.650|6.317|labbaye-ch.mail.eo.outlook.com|M||US|
+5872|Le Chenit|VD|communeduchenit.ch|46.600|6.233|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5873|Le Lieu|VD|lelieu.ch|46.650|6.283|o365|M||US|
+5882|Chardonne|VD|chardonne.ch|46.489|6.822|o365|M||US|
+5883|Corseaux|VD|corseaux.ch|46.467|6.833|o365|M||US|
+5884|Corsier-sur-Vevey|VD|corsier-sur-vevey.ch|46.467|6.850|o365|M||US|
+5885|Jongny|VD|jongny.ch|46.488|6.847|o365|M||US|
+5886|Montreux|VD|montreux.ch|46.435|6.912|mail2.rcv.ch mail.rcv.ch|P|RCV (réseau cantonal vaudois)|CH|
+5889|La Tour-de-Peilz|VD|la-tour-de-peilz.ch|46.450|6.867|mail2.rcv.ch mail.rcv.ch|P|RCV (réseau cantonal vaudois)|CH|
+5890|Vevey|VD|vevey.ch|46.467|6.850|o365|M||US|
+5891|Veytaux|VD|veytaux.ch|46.421|6.928|o365|M||US|
+5892|Blonay - Saint-Légier|VD|blonay-saint-legier.ch|46.465|6.895|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5902|Belmont-sur-Yverdon|VD|belmont-sur-yverdon.ch|46.750|6.617|o365|M||US|
+5903|Bioley-Magnoux|VD|bioley-magnoux.ch|46.733|6.717|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5904|Chamblon|VD|chamblon.ch|46.783|6.600|o365|M||US|
+5905|Champvent|VD|champvent.ch|46.783|6.572|o365|M||US|
+5907|Chavannes-le-Chêne|VD|chavannes-le-chene.ch|46.780|6.781|mx2.spamvor.com mx1.spamvor.com|F|Spamvor|ND|
+5908|Chêne-Pâquier|VD|chene-paquier.ch|46.767|6.767|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5909|Cheseaux-Noréaz|VD|cheseaux-noreaz.ch|46.783|6.683|mta.witecom.ch|S|Witecom|CH|
+5910|Cronay|VD|cronay.ch|46.750|6.700|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5911|Cuarny|VD|cuarny.ch|46.767|6.683|o365|M||US|
+5912|Démoret|VD|demoret.ch|46.750|6.750|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5913|Donneloye|VD|donneloye.ch|46.750|6.717|o365|M||US|
+5914|Ependes (VD)|VD|ependesvd.ch|46.745|6.603|o365|M||US|
+5919|Mathod|VD|mathod.ch|46.767|6.567|o365|M||US|
+5921|Molondin|VD|molondin.ch|46.767|6.750|o365|M||US|
+5922|Montagny-près-Yverdon|VD|montagny.ch|46.783|6.617|o365|M||US|
+5923|Oppens|VD|oppens.ch|46.717|6.700|oppens.ch|C||ND|spf:Tizoo
+5924|Orges|VD|orges.ch|46.817|6.583|o365|M||US|
+5925|Orzens|VD|orzens.ch|46.717|6.683|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5926|Pomy|VD|pomy.ch|46.758|6.669|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5928|Rovray|VD|rovray.ch|46.789|6.767|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5929|Suchy|VD|suchy.ch|46.721|6.605|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5930|Suscévaz|VD|suscevaz.ch|46.767|6.583|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5931|Treycovagnes|VD|treycovagnes.ch|46.767|6.600|o365|M||US|
+5932|Ursins|VD|ursins.ch|46.733|6.667|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5933|Valeyres-sous-Montagny|VD|valeyres-sous-montagny.ch|46.800|6.600|o365|M||US|
+5934|Valeyres-sous-Ursins|VD|valeyres-sous-ursins.ch|46.750|6.650||N|Aucun enregistrement MX sur le domaine|ND|
+5935|Villars-Epeney|VD|villars-epeney.ch|46.783|6.700|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5937|Vugelles-La Mothe|VD|vugelleslamothe.ch|46.817|6.583|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+5938|Yverdon-les-Bains|VD|yverdon-les-bains.ch|46.779|6.641|mail.yverdon.rcv.ch mail2.yverdon.rcv.ch|P|RCV (réseau cantonal vaudois)|CH|
+5939|Yvonand|VD|yvonand.ch|46.800|6.750|mta.witecom.ch|S|Witecom|CH|
+6002|Brig-Glis|VS|brig-glis.ch|46.316|7.988|mx.rhone.ch|S|Rhône.ch|CH|spfM
+6004|Eggerberg|VS|eggerberg.ch|46.300|7.883|o365|M||US|
+6007|Naters|VS|naters.ch|46.324|7.989|mail.naters.ch|C||ND|spfM
+6008|Ried-Brig|VS|ried-brig.ch|46.317|8.017|o365|M||US|
+6009|Simplon|VS|gemeinde-simplon.ch|46.200|8.050|o365|M||US|
+6010|Termen|VS|termen.ch|46.317|8.017|o365|M||US|
+6011|Zwischbergen|VS|gondo.ch|46.167|8.117|o365|M||US|
+6021|Ardon|VS|ardon.ch|46.200|7.250|o365|M||US|
+6022|Chamoson|VS|chamoson.net|46.200|7.217|mx2-eu1.ppe-hosted.com mx1-eu1.ppe-hosted.com|P|CIGES (filtrage Proofpoint)|CHUS|
+6023|Conthey|VS|conthey.ch|46.217|7.300|o365|M||US|
+6024|Nendaz|VS|nendaz.org|46.183|7.300|o365|M||US|
+6025|Vétroz|VS|vetroz.ch|46.226|7.271|mgwb01.dlnet.ch mgwa01.dlnet.ch|S|DLNet|CH|
+6032|Bourg-Saint-Pierre|VS|bourg-saint-pierre.ch|45.950|7.200|mailgate2.ti-informatique.com|S|T.I. Informatique|CH|
+6033|Liddes|VS|liddes.ch|45.983|7.183|mx2-eu1.ppe-hosted.com mx1-eu1.ppe-hosted.com|P|CIGES (filtrage Proofpoint)|CHUS|
+6034|Orsières|VS|orsieres.ch|46.033|7.150|mailgate2.ti-informatique.com|S|T.I. Informatique|CH|spfM
+6035|Sembrancher|VS|sembrancher.ch|46.078|7.151|o365|M||US|
+6037|Val de Bagnes|VS|valdebagnes.ch|46.080|7.212|o365|M||US|
+6052|Bellwald|VS|bellwald.ch|46.433|8.150|mx.rhone.ch|S|Rhône.ch|CH|spfM
+6054|Binn|VS|binn.ch|46.367|8.183|mail.binn.ch|C||ND|spf:Sui-Inter
+6056|Ernen|VS|ernen.ch|46.400|8.150|o365|M||US|
+6057|Fiesch|VS|gemeinde-fiesch.ch|46.400|8.133|o365|M||US|
+6058|Fieschertal|VS|fieschertal.ch|46.500|8.133|o365|M||US|
+6061|Lax|VS|lax.ch|46.383|8.117|o365|M||US|
+6076|Obergoms|VS|obergoms.ch|46.533|8.350|mx.rhone.ch|S|Rhône.ch|CH|spfM
+6077|Goms|VS|gemeinde-goms.ch|46.483|8.250|o365|M||US|
+6082|Ayent|VS|ayent.ch|46.283|7.400|o365|M||US|
+6083|Evolène|VS|commune-evolene.ch|46.113|7.496|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6084|Hérémence|VS|heremence.ch|46.183|7.400|mailgate.ti-informatique.com mailgate2.ti-informatique.com|S|T.I. Informatique|CH|
+6087|Saint-Martin (VS)|VS|saint-martin.ch|46.167|7.433|mx2-eu1.ppe-hosted.com mx1-eu1.ppe-hosted.com|P|CIGES (filtrage Proofpoint)|CHUS|
+6089|Vex|VS|vex.ch|46.217|7.400|mailgate2.ti-informatique.com|S|T.I. Informatique|CH|
+6090|Mont-Noble|VS|mont-noble.ch|46.230|7.429|mx1-eu1.ppe-hosted.com mx2-eu1.ppe-hosted.com|P|CIGES (filtrage Proofpoint)|CHUS|
+6101|Agarn|VS|agarn.ch|46.283|7.650|o365|M||US|
+6102|Albinen|VS|albinen.ch|46.333|7.633|o365|M||US|
+6104|Ergisch|VS|ergisch.ch|46.283|7.700|o365|M||US|
+6109|Inden|VS|inden.ch|46.333|7.617|o365|M||US|
+6110|Leuk|VS|leuk.ch|46.317|7.633|o365|M||US|
+6111|Leukerbad|VS|leukerbad.org|46.383|7.633|o365|M||US|
+6112|Oberems|VS|oberems.ch|46.215|7.684|o365|M||US|
+6113|Salgesch|VS|salgesch.ch|46.300|7.567|mx-cluster01-hz13.hornetsecurity.ch mx-cluster02-hz13.hornetsecurity.ch|F|Hornetsecurity (filtrage)|ND|
+6116|Varen|VS|varen.ch|46.317|7.600|o365|M||US|
+6117|Guttet-Feschel|VS|guttet-feschel.ch|46.317|7.650|o365|M||US|
+6118|Gampel-Bratsch|VS|gampel-bratsch.ch|46.317|7.750|o365|M||US|
+6119|Turtmann-Unterems|VS|turtmann-unterems.ch|46.302|7.704|o365|M||US|
+6131|Bovernier|VS|bovernier.ch|46.083|7.083|o365|M||US|
+6133|Fully|VS|fully.ch|46.133|7.117|smtp.fully.ch|C||ND|
+6134|Isérables|VS|iserables.ch|46.164|7.243|o365|M||US|
+6135|Leytron|VS|leytron.ch|46.183|7.200|o365|M||US|
+6136|Martigny|VS|martigny.ch|46.100|7.073|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6137|Martigny-Combe|VS|martigny-combe.ch|46.083|7.050|o365|M||US|
+6139|Riddes|VS|riddes.ch|46.167|7.217|o365|M||US|
+6140|Saillon|VS|saillon.ch|46.167|7.183|mx.netplus.ch|S|Netplus|CH|spfM
+6141|Saxon|VS|saxon.ch|46.150|7.167|mx.netplus.ch|S|Netplus|CH|
+6142|Trient|VS|trient.ch|46.050|7.000|mailgate2.ti-informatique.com|S|T.I. Informatique|CH|
+6151|Champéry|VS|admin-champery.ch|46.175|6.871|mailgate.ti-informatique.com mailgate2.ti-informatique.com|S|T.I. Informatique|CH|
+6152|Collombey-Muraz|VS|collombey-muraz.ch|46.267|6.950|o365|M||US|
+6153|Monthey|VS|monthey.ch|46.250|6.950|mx-02-eu-central-1.prod.hydra.sophos.com mx-01-eu-central-1.prod.hydra.sophos.com|M|Microsoft (derrière filtrage Sophos)|US|
+6154|Port-Valais|VS|port-valais.ch|46.368|6.858|o365|M||US|
+6155|Saint-Gingolph|VS|st-gingolph.ch|46.392|6.806|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6156|Troistorrents|VS|troistorrents.ch|46.233|6.917|o365|M||US|
+6157|Val-d'Illiez|VS|illiez.ch|46.200|6.900|o365|M||US|
+6158|Vionnaz|VS|vionnaz.ch|46.317|6.900|o365|M||US|
+6159|Vouvry|VS|vouvry.ch|46.333|6.883|o365|M||US|
+6172|Bister|VS||46.367|8.067||N|Pas de site officiel référencé|ND|
+6173|Bitsch|VS|bitsch.ch|46.333|8.000|o365|M||US|
+6177|Grengiols|VS|grengiols.ch|46.367|8.100|o365|M||US|
+6181|Riederalp|VS|gemeinde-riederalp.ch|46.383|8.033|o365|M||US|
+6191|Ausserberg|VS|ausserberg.ch|46.317|7.850|ausserberg.ch|C||ND|spfM
+6192|Blatten|VS|blatten-vs.ch|46.417|7.817|o365|M||US|
+6193|Bürchen|VS|buerchen.ch|46.267|7.817|o365|M||US|
+6194|Eischoll|VS|eischoll.ch|46.267|7.767|o365|M||US|
+6195|Ferden|VS|ferden.ch|46.367|7.750|o365|M||US|
+6197|Kippel|VS|kippel.ch|46.383|7.767|o365|M||US|
+6198|Niedergesteln|VS|niedergesteln.ch|46.317|7.767|o365|M||US|
+6199|Raron|VS|raron.ch|46.310|7.800|o365|M||US|
+6201|Unterbäch|VS|unterbaech.ch|46.267|7.783|mx.rhone.ch|S|Rhône.ch|CH|spfM
+6202|Wiler (Lötschen)|VS|wilervs.ch|46.407|7.787|wilervs.ch|C||ND|spfM
+6203|Mörel-Filet|VS|moerel-filet.ch|46.357|8.048|o365|M||US|
+6204|Steg-Hohtenn|VS|steg-hohtenn.ch|46.283|7.783|o365|M||US|
+6205|Bettmeralp|VS|bettmeralp.ch|46.377|8.071|srv12.jse.ch mail.vs-online.net|S|JSE|CH|spfM
+6211|Collonges|VS|collonges.ch|46.180|7.056|mx2-eu1.ppe-hosted.com mx1-eu1.ppe-hosted.com|P|CIGES (filtrage Proofpoint)|CHUS|
+6212|Dorénaz|VS|dorenaz.ch|46.150|7.050|mx2-eu1.ppe-hosted.com mx1-eu1.ppe-hosted.com|P|CIGES (filtrage Proofpoint)|CHUS|
+6213|Evionnaz|VS|evionnaz.ch|46.179|7.022|o365|M||US|
+6214|Finhaut|VS|finhaut.ch|46.083|6.977|o365|M||US|
+6215|Massongex|VS|massongex.ch|46.250|6.983|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6217|Saint-Maurice|VS|saint-maurice.ch|46.219|7.005|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6218|Salvan|VS|salvan.ch|46.117|7.017|mail.salvan.ch|C||ND|
+6219|Vernayaz|VS|vernayaz.ch|46.133|7.033|o365|M||US|
+6220|Vérossaz|VS|verossaz.ch|46.217|6.983|o365|M||US|
+6232|Chalais|VS|chalais.ch|46.267|7.500|mx1-eu1.ppe-hosted.com mx2-eu1.ppe-hosted.com|P|CIGES (filtrage Proofpoint)|CHUS|
+6235|Chippis|VS|chippis.ch|46.283|7.533|mx2-eu1.ppe-hosted.com mx1-eu1.ppe-hosted.com|P|CIGES (filtrage Proofpoint)|CHUS|
+6238|Grône|VS|grone.ch|46.250|7.450|o365|M||US|
+6239|Icogne|VS|icogne.ch|46.283|7.433|mail2.pcprofi.ch|S|PC Profi|CH|
+6240|Lens|VS|lens.ch|46.281|7.447|mail2.pcprofi.ch|S|PC Profi|CH|
+6246|Saint-Léonard|VS|st-leonard.ch|46.257|7.427|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6248|Sierre|VS|sierre.ch|46.292|7.532|mail2.pcprofi.ch|S|PC Profi|CH|
+6252|Anniviers|VS|anniviers.org|46.200|7.583|mx1-eu1.ppe-hosted.com mx2-eu1.ppe-hosted.com|P|CIGES (filtrage Proofpoint)|CHUS|
+6253|Crans-Montana|VS|commune-cransmontana.ch|46.312|7.482||N|Aucun enregistrement MX sur le domaine|ND|
+6254|Noble-Contrée|VS|noble-contree.ch|46.300|7.533|o365|M||US|
+6261|Arbaz|VS|arbaz.ch|46.267|7.383|mx1-eu1.ppe-hosted.com mx2-eu1.ppe-hosted.com|M|Microsoft (derrière filtrage Proofpoint)|US|
+6263|Grimisuat|VS|grimisuat.ch|46.267|7.383|mx1-eu1.ppe-hosted.com mx2-eu1.ppe-hosted.com|P|CIGES (filtrage Proofpoint)|CHUS|
+6265|Savièse|VS|saviese.ch|46.250|7.333|mx2-eu1.ppe-hosted.com mx1-eu1.ppe-hosted.com|P|CIGES (filtrage Proofpoint)|CHUS|
+6266|Sion|VS|sion.ch|46.230|7.366|mx1-eu1.ppe-hosted.com mx2-eu1.ppe-hosted.com|P|CIGES (filtrage Proofpoint)|CHUS|
+6267|Veysonnaz|VS|veysonnaz.org|46.197|7.338|mx1-eu1.ppe-hosted.com mx2-eu1.ppe-hosted.com|P|CIGES (filtrage Proofpoint)|CHUS|
+6281|Baltschieder|VS|baltschieder.ch|46.376|7.881|o365|M||US|
+6282|Eisten|VS|eisten.ch|46.200|7.900|o365|M||US|
+6283|Embd|VS|embd.ch|46.217|7.817|o365|M||US|
+6285|Grächen|VS|gemeinde-graechen.ch|46.167|7.817|mail.gemeinde-graechen.ch|C||ND|
+6286|Lalden|VS|lalden.ch|46.283|7.900|o365|M||US|
+6287|Randa|VS|randa.ch|46.100|7.783|o365|M||US|
+6288|Saas-Almagell|VS|saas-almagell.org|46.094|7.957||N|Aucun enregistrement MX exploitable|ND|
+6289|Saas-Balen|VS|gemeinde-saas-balen.ch|46.133|7.917|mail.gemeinde-saas-balen.ch|C||ND|
+6290|Saas-Fee|VS|3906.ch|46.110|7.929|o365|M||US|
+6291|Saas-Grund|VS|saas-grund.ch|46.117|7.933|o365|M||US|
+6292|St. Niklaus|VS|st-niklaus.ch|46.183|7.800|o365|M||US|
+6293|Stalden (VS)|VS|stalden.ch|46.233|7.867|mx02.hornetsecurity.com mx03.hornetsecurity.com|M|Microsoft (derrière filtrage Hornetsecurity)|US|
+6294|Staldenried|VS|staldenried.ch|46.218|7.910|o365|M||US|
+6295|Täsch|VS|gemeinde-taesch.ch|46.054|7.811|o365|M||US|
+6296|Törbel|VS|toerbel.ch|46.238|7.851|o365|M||US|
+6297|Visp|VS|visp.ch|46.292|7.883|mx-cluster04-hz13.hornetsecurity.ch mx-cluster02-hz13.hornetsecurity.ch|F|Hornetsecurity (filtrage)|ND|
+6298|Visperterminen|VS|visperterminen.ch|46.250|7.900|mx02.hornetsecurity.com mx03.hornetsecurity.com|M|Microsoft (derrière filtrage Hornetsecurity)|US|
+6299|Zeneggen|VS|zeneggen.ch|46.267|7.833|o365|M||US|
+6300|Zermatt|VS|gemeinde.zermatt.ch|46.019|7.746|o365|M||US|
+6404|Boudry|NE|boudry.ch|46.950|6.833||N|Aucun enregistrement MX sur le domaine|ND|
+6408|Cortaillod|NE|cortaillod.ch|46.944|6.848||N|Aucun enregistrement MX sur le domaine|ND|
+6413|Rochefort|NE|rochefort.ch|46.983|6.817||N|Aucun enregistrement MX sur le domaine|ND|
+6416|Milvignes|NE|milvignes.ch|46.967|6.867||N|Aucun enregistrement MX sur le domaine|ND|
+6417|La Grande Béroche|NE|lagrandeberoche.ch|46.907|6.763||N|Aucun enregistrement MX sur le domaine|ND|
+6421|La Chaux-de-Fonds|NE|chaux-de-fonds.ch|47.100|6.830|nemx9a.ne.ch ne2mx9a.ne.ch|P|Canton de Neuchâtel|CH|
+6422|Les Planchettes|NE|les-planchettes.ch|47.108|6.771|filter40.antispamcloud.com filter20.antispamcloud.com|F|Antispamcloud|ND|
+6423|La Sagne|NE|lasagne.ch|47.039|6.799||N|Aucun enregistrement MX sur le domaine|ND|
+6432|La Brévine|NE|labrevine.ch|46.983|6.600||N|Aucun enregistrement MX sur le domaine|ND|
+6433|Brot-Plamboz|NE|brot-plamboz.ch|46.967|6.733||N|Aucun enregistrement MX sur le domaine|ND|
+6434|Le Cerneux-Péquignot|NE|cerneux-pequignot.ch|47.017|6.667||N|Aucun enregistrement MX sur le domaine|ND|
+6435|La Chaux-du-Milieu|NE|chaux-du-milieu.ch|47.017|6.700||N|Aucun enregistrement MX sur le domaine|ND|
+6436|Le Locle|NE|lelocle.ch|47.053|6.748|nemx9a.ne.ch ne2mx9a.ne.ch|P|Canton de Neuchâtel|CH|
+6437|Les Ponts-de-Martel|NE|lesponts-de-martel.ch|46.997|6.727||N|Aucun enregistrement MX sur le domaine|ND|
+6451|Cornaux|NE|ne.ch|47.039|7.020|nemx9a.ne.ch ne2mx9a.ne.ch|P|Canton de Neuchâtel|CH|spfM
+6452|Cressier (NE)|NE|cressier-ne.ch|47.051|7.036||N|Aucun enregistrement MX sur le domaine|ND|
+6455|Le Landeron|NE|landeron.ch|47.055|7.069||N|Aucun enregistrement MX sur le domaine|ND|
+6456|Lignières|NE|lignieres.ch|47.083|7.067||N|Aucun enregistrement MX sur le domaine|ND|
+6458|Neuchâtel|NE|neuchatelville.ch|46.990|6.931|ne2mx9a.ne.ch nemx9a.ne.ch|P|Canton de Neuchâtel|CH|
+6487|Val-de-Ruz|NE|val-de-ruz.ch|47.062|6.912||N|Aucun enregistrement MX sur le domaine|ND|
+6504|La Côte-aux-Fées|NE|lacote-aux-fees.ch|46.867|6.483||N|Aucun enregistrement MX sur le domaine|ND|
+6511|Les Verrières|NE|lesverrieres.ch|46.900|6.483|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6512|Val-de-Travers|NE|val-de-travers.ch|46.900|6.600|mail.val-de-travers.ch|C||ND|spf:Infomaniak
+6513|Laténa|NE|commune-latena.ch|47.011|7.006||N|Aucun enregistrement MX sur le domaine|ND|
+6601|Aire-la-Ville|GE|aire-la-ville.ch|46.190|6.042|mail.acg-geneve.ch mail2.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6602|Anières|GE|anieres.ch|46.267|6.217|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6603|Avully|GE|avully.ch|46.167|5.998|mail.acg-geneve.ch mail2.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6604|Avusy|GE|avusy.ch|46.150|5.983|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6605|Bardonnex|GE|bardonnex.ch|46.133|6.100|mail.acg-geneve.ch mai2.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6606|Bellevue|GE|mairie-bellevue.ch|46.250|6.150|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6607|Bernex|GE|bernex.ch|46.178|6.068|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6608|Carouge (GE)|GE|carouge.ch|46.182|6.140|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6609|Cartigny|GE|cartigny.ch|46.174|6.021|mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6610|Céligny|GE|celigny.ch|46.350|6.200|mail.acg-geneve.ch mail2.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6611|Chancy|GE|chancy.ch|46.148|5.979|mail.acg-geneve.ch mail2.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6612|Chêne-Bougeries|GE|chene-bougeries.ch|46.183|6.183|mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6613|Chêne-Bourg|GE|chene-bourg.ch|46.197|6.197|mail.acg-geneve.ch mail2.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6614|Choulex|GE|choulex.ch|46.226|6.224|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6615|Collex-Bossy|GE|collex-bossy.ch|46.267|6.117|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6616|Collonge-Bellerive|GE|collonge-bellerive.ch|46.250|6.200|mail.acg-geneve.ch mail2.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6617|Cologny|GE|cologny.ch|46.217|6.183|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6618|Confignon|GE|confignon.ch|46.183|6.083|mail.acg-geneve.ch mail2.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6619|Corsier (GE)|GE|corsier.ch|46.262|6.228|mail.acg-geneve.ch mail2.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6620|Dardagny|GE|dardagny.ch|46.195|5.995|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6621|Genève|GE|geneve.ch|46.200|6.150|o365|M||US|
+6622|Genthod|GE|genthod.ch|46.267|6.150|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6623|Le Grand-Saconnex|GE|grand-saconnex.ch|46.233|6.117|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6624|Gy|GE|mairie-gy.ch|46.250|6.250|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6625|Hermance|GE|hermance.ch|46.294|6.245|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6626|Jussy|GE|jussy.ch|46.237|6.279|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6627|Laconnex|GE|laconnex.ch|46.159|6.034|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6628|Lancy|GE|lancy.ch|46.190|6.116|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6629|Meinier|GE|meinier.ch|46.243|6.235|mail.acg-geneve.ch mail2.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6630|Meyrin|GE|meyrin.ch|46.232|6.079|mail.acg-geneve.ch mail2.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6631|Onex|GE|onex.ch|46.183|6.100|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6632|Perly-Certoux|GE|perly-certoux.ch|46.157|6.091|mail.acg-geneve.ch mail2.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6633|Plan-les-Ouates|GE|plan-les-ouates.ch|46.167|6.117|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6634|Pregny-Chambésy|GE|pregny-chambesy.ch|46.242|6.144|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6635|Presinge|GE|presinge.ch|46.219|6.255|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6636|Puplinge|GE|puplinge.ch|46.211|6.232|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6637|Russin|GE|russin.ch|46.194|6.014|mail.acg-geneve.ch mail2.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6638|Satigny|GE|satigny.ch|46.214|6.037|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6639|Soral|GE|soral.ch|46.143|6.043|mail.acg-geneve.ch mail2.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6640|Thônex|GE|thonex.ch|46.200|6.217|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6641|Troinex|GE|troinex.ch|46.163|6.147|mail.acg-geneve.ch mail2.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6642|Vandoeuvres|GE|vandoeuvres.ch|46.217|6.200|mail.acg-geneve.ch mail2.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6643|Vernier|GE|vernier.ch|46.200|6.100|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6644|Versoix|GE|versoix.ch|46.283|6.167|mail.acg-geneve.ch mail2.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6645|Veyrier|GE|veyrier.ch|46.167|6.183|mail2.acg-geneve.ch mail.acg-geneve.ch|P|ACG (Association des communes genevoises)|CH|
+6702|Boécourt|JU|boecourt.ch|47.350|7.217|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6703|Bourrignon|JU|bourrignon.ch|47.400|7.250|mail.bourrignon.ch|C||ND|spf:Kreativmedia
+6704|Châtillon (JU)|JU|chatillon.ch|47.329|7.342|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6706|Courchapoix|JU|courchapoix.ch|47.350|7.450|mta-gw.infomaniak.ch|S|Infomaniak|CH|spfM
+6708|Courrendlin|JU|courrendlin.ch|47.333|7.367|mx1.azinformatique.ch mx2.azinformatique.ch|S|AZ Informatique|CH|
+6709|Courroux|JU|courroux.ch|47.367|7.367|mx1.azinformatique.ch mx4.azinformatique.ch|S|AZ Informatique|CH|
+6710|Courtételle|JU|courtetelle.ch|47.331|7.318|mx3.azinformatique.ch mx4.azinformatique.ch|S|AZ Informatique|CH|
+6711|Delémont|JU|delemont.ch|47.365|7.347|d313142.a.ess.de.barracudanetworks.com d313142.b.ess.de.barracudanetworks.com|F|Barracuda|CHUS|
+6712|Develier|JU|develier.ch|47.350|7.283|o365|M||US|
+6713|Ederswiler|JU|ederswiler.ch|47.417|7.333|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6715|Mervelier|JU|mervelier.ch|47.350|7.483|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6716|Mettembert|JU||47.400|7.317||N|Pas de site officiel référencé|ND|
+6718|Movelier|JU|movelier.ch|47.417|7.300|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6719|Pleigne|JU|pleigne.ch|47.407|7.290|o365|M||US|
+6721|Rossemaison|JU|rossemaison.ch|47.350|7.350|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6722|Saulcy|JU|saulcy.ch|47.300|7.150|o365|M||US|
+6724|Soyhières|JU|soyhieres.ch|47.400|7.367|mailfilter.evok.ch|S|Evok|CH|
+6729|Haute-Sorne|JU|haute-sorne.ch|47.339|7.246|mx3.azinformatique.ch mx4.azinformatique.ch|S|AZ Informatique|CH|
+6730|Val Terbi|JU|val-terbi.ch|47.350|7.411|mx4.azinformatique.ch mx1.azinformatique.ch|S|AZ Informatique|CH|
+6741|Le Bémont (JU)|JU|lebemont.ch|47.267|7.017|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6742|Les Bois|JU|lesbois.ch|47.183|6.900|mx2.azinformatique.ch mx4.azinformatique.ch|S|AZ Informatique|CH|
+6743|Les Breuleux|JU|breuleux.ch|47.205|7.003|mx1.azinformatique.ch mx3.azinformatique.ch|S|AZ Informatique|CH|
+6745|Les Enfers|JU|lesenfers.ch|47.288|7.047|mail.lesenfers.ch|C||ND|spf:Kreativmedia
+6748|Les Genevez (JU)|JU|lesgenevez.ch|47.250|7.133|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6750|Lajoux (JU)|JU|lajoux.ch|47.281|7.138|o365|M||US|
+6751|Montfaucon|JU|montfaucon.ch|47.281|7.051|mail.montfaucon.ch backup.montfaucon.ch|C||ND|spf:Tizoo
+6753|Muriaux|JU|muriaux.ch|47.250|6.983|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6754|Le Noirmont|JU|noirmont.ch|47.214|6.944|mx2.azinformatique.ch mx4.azinformatique.ch|S|AZ Informatique|CH|
+6757|Saignelégier|JU|saignelegier.ch|47.250|7.000|mx2.azinformatique.ch mx3.azinformatique.ch|S|AZ Informatique|CH|
+6758|Saint-Brais|JU|saint-brais.ch|47.300|7.117|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6759|Soubey|JU|soubey.ch|47.310|7.040|o365|M||US|
+6771|Alle|JU|alle.ch|47.426|7.129|o365|M||US|
+6774|Boncourt|JU|boncourt.ch|47.500|7.017|mx4.azinformatique.ch mx3.azinformatique.ch|S|AZ Informatique|CH|
+6778|Bure|JU|bure.ch|47.438|6.997|mx4.azinformatique.ch mx3.azinformatique.ch|S|AZ Informatique|CH|
+6781|Coeuve|JU|coeuve.ch|47.454|7.098|o365|M||US|
+6782|Cornol|JU|cornol.ch|47.400|7.167|o365|M||US|
+6783|Courchavon|JU|courchavon-mormont.ch|47.433|7.050|mx1.mail.hostpoint.ch mx2.mail.hostpoint.ch|S|Hostpoint|CH|
+6784|Courgenay|JU|courgenay.ch|47.400|7.133|o365|M||US|
+6785|Courtedoux|JU|courtedoux.ch|47.413|7.028|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6789|Fahy|JU|fahy.ch|47.417|6.950|o365|M||US|
+6790|Fontenais|JU|fontenais.ch|47.400|7.083|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6792|Grandfontaine|JU|grandfontaine.ch|47.383|6.933|o365|M||US|
+6800|Porrentruy|JU|porrentruy.ch|47.417|7.083|mx2.azinformatique.ch mx3.azinformatique.ch|S|AZ Informatique|CH|
+6806|Vendlincourt|JU|vendlincourt.ch|47.450|7.150|o365|M||US|
+6807|Basse-Allaine|JU|basse-allaine.ch|47.450|7.033|o365|M||US|
+6808|Clos du Doubs|JU|closdudoubs.ch|47.350|7.150|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6809|Haute-Ajoie|JU|hauteajoie.ch|47.383|7.000|mx1.azinformatique.ch mx2.azinformatique.ch|S|AZ Informatique|CH|
+6810|La Baroche|JU|baroche.ch|47.417|7.167|mta-gw.infomaniak.ch|S|Infomaniak|CH|
+6811|Damphreux-Lugnez|JU|damphreux-lugnez.ch|47.485|7.099|o365|M||US|
+6812|Basse-Vendline|JU|basse-vendline.ch|47.487|7.141|o365|M||US|
+6831|Moutier|JU|moutier.ch|47.280|7.371|mail.moutier.ch|C||ND|spfM

@@ -1,0 +1,85 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "vcard": "http://www.w3.org/2006/vcard/ns#",
+    "schema": "http://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@type": "dcat:Dataset",
+  "@id": "https://github.com/<compte>/barometre-souverainete-communes#jeu-de-donnees",
+  "dct:identifier": "barometre-souverainete-communes-romandes@2026-10-09",
+  "dct:title": [
+    {"@language": "fr", "@value": "Baromètre de la souveraineté numérique des communes romandes : fournisseurs de messagerie"},
+    {"@language": "en", "@value": "Digital sovereignty barometer of French-speaking Swiss municipalities: email providers"}
+  ],
+  "dct:description": [
+    {"@language": "fr", "@value": "Pour chacune des 661 communes des cantons de Genève, Vaud, Neuchâtel, Jura, Fribourg et Valais au 9 octobre 2026 : domaine de messagerie de l'administration, enregistrements MX, indices SPF, catégorie de fournisseur (Microsoft 365, Google Workspace, prestataire suisse, infrastructure publique, serveur propre, passerelle de filtrage) et juridiction du fournisseur. Données obtenues par requêtes DNS publiques, sans accès aux systèmes des communes."}
+  ],
+  "dct:issued": {"@type": "xsd:date", "@value": "2026-10-09"},
+  "dct:temporal": {"@type": "dct:PeriodOfTime", "dcat:startDate": "2026-10-09", "dcat:endDate": "2026-10-09"},
+  "dct:spatial": [
+    {"@id": "https://ld.admin.ch/canton/25"}, {"@id": "https://ld.admin.ch/canton/22"},
+    {"@id": "https://ld.admin.ch/canton/24"}, {"@id": "https://ld.admin.ch/canton/26"},
+    {"@id": "https://ld.admin.ch/canton/10"}, {"@id": "https://ld.admin.ch/canton/23"}
+  ],
+  "dct:publisher": {"@type": "foaf:Agent", "foaf:name": "Younouss"},
+  "dcat:contactPoint": {"@type": "vcard:Individual", "vcard:fn": "Younouss"},
+  "dcat:theme": [
+    {"@id": "http://publications.europa.eu/resource/authority/data-theme/GOVE"},
+    {"@id": "http://publications.europa.eu/resource/authority/data-theme/TECH"}
+  ],
+  "dcat:keyword": [
+    {"@language": "fr", "@value": "souveraineté numérique"},
+    {"@language": "fr", "@value": "cloud"},
+    {"@language": "fr", "@value": "communes"},
+    {"@language": "fr", "@value": "messagerie"},
+    {"@language": "fr", "@value": "CLOUD Act"},
+    {"@language": "fr", "@value": "gouvernance de l'information"}
+  ],
+  "dct:accrualPeriodicity": {"@id": "http://publications.europa.eu/resource/authority/frequency/ANNUAL"},
+  "dct:language": [{"@id": "http://publications.europa.eu/resource/authority/language/FRA"}],
+  "dct:source": [
+    "Office fédéral de la statistique, répertoire officiel des communes de Suisse (API AGVCH), état au 9.10.2026",
+    "Office fédéral de la statistique, STATPOP, population résidante permanente au 31.12.2025 (tableau px-x-0102010000_101)",
+    "Wikidata, propriétés P771 (numéro OFS), P856 (site officiel), P625 (coordonnées)",
+    "Google Public DNS (DNS-over-HTTPS), requêtes MX, TXT et NS du 9.10.2026",
+    "Vérifications manuelles sur les sites des communes (voir corrections_manuelles.csv)"
+  ],
+  "dcat:distribution": [
+    {
+      "@type": "dcat:Distribution",
+      "dct:title": {"@language": "fr", "@value": "Table par commune (CSV)"},
+      "dcat:downloadURL": {"@id": "data/communes_romandes_messagerie.csv"},
+      "dcat:mediaType": {"@id": "https://www.iana.org/assignments/media-types/text/csv"},
+      "dct:format": {"@id": "http://publications.europa.eu/resource/authority/file-type/CSV"},
+      "dct:license": {"@id": "https://creativecommons.org/licenses/by/4.0/"},
+      "dct:rights": "Données Wikidata sous CC0 ; données OFS : utilisation libre avec mention de la source (OGD Suisse)."
+    },
+    {
+      "@type": "dcat:Distribution",
+      "dct:title": {"@language": "fr", "@value": "Synthèse chiffrée (JSON)"},
+      "dcat:downloadURL": {"@id": "data/synthese.json"},
+      "dcat:mediaType": {"@id": "https://www.iana.org/assignments/media-types/application/json"},
+      "dct:license": {"@id": "https://creativecommons.org/licenses/by/4.0/"}
+    }
+  ],
+  "schema:variableMeasured": [
+    {"schema:name": "bfs", "schema:description": "Numéro OFS de la commune"},
+    {"schema:name": "commune", "schema:description": "Nom officiel (OFS)"},
+    {"schema:name": "canton", "schema:description": "Abréviation du canton"},
+    {"schema:name": "population_2025", "schema:description": "Population résidante permanente au 31.12.2025 (OFS), recalculée pour les fusions du 1.1.2026"},
+    {"schema:name": "domaine", "schema:description": "Domaine de messagerie analysé"},
+    {"schema:name": "mx", "schema:description": "Deux premiers serveurs MX (le nom propre au domaine est remplacé par <domaine> pour Microsoft 365)"},
+    {"schema:name": "categorie", "schema:description": "Code de catégorie : M, G, S, P, F, C, A, N"},
+    {"schema:name": "libelle_categorie", "schema:description": "Libellé de la catégorie"},
+    {"schema:name": "fournisseur", "schema:description": "Fournisseur identifié"},
+    {"schema:name": "juridiction", "schema:description": "US, CH, CHUS (prestataire suisse avec filtrage américain), ND"},
+    {"schema:name": "indice_spf", "schema:description": "Information complémentaire tirée de l'enregistrement SPF"},
+    {"schema:name": "lat", "schema:description": "Latitude (WGS84, Wikidata)"},
+    {"schema:name": "lon", "schema:description": "Longitude (WGS84, Wikidata)"},
+    {"schema:name": "correction", "schema:description": "Justification d'une correction manuelle"},
+    {"schema:name": "source_correction", "schema:description": "Page consultée pour la correction"}
+  ]
+}

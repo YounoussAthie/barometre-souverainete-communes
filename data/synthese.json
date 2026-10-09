@@ -1,0 +1,185 @@
+{
+  "date_collecte": "2026-10-09",
+  "communes": 661,
+  "par_categorie": {
+    "Microsoft 365": 354,
+    "Prestataire suisse": 183,
+    "Infrastructure publique": 71,
+    "Serveur au nom de la commune": 29,
+    "Passerelle de filtrage (plateforme non identifiée)": 15,
+    "Non déterminé": 5,
+    "Autre": 2,
+    "Google Workspace": 2
+  },
+  "par_juridiction": {
+    "Plateforme d'un fournisseur américain": 356,
+    "Prestataire ou infrastructure suisse": 241,
+    "Non déterminé": 47,
+    "Prestataire suisse avec filtrage par un fournisseur américain": 17
+  },
+  "par_canton": {
+    "Fribourg": {
+      "communes": 119,
+      "Microsoft 365": 84,
+      "Prestataire suisse": 25,
+      "Passerelle de filtrage (plateforme non identifiée)": 5,
+      "Serveur au nom de la commune": 4,
+      "Non déterminé": 1,
+      "part_microsoft_365": 70.6,
+      "population_2025": 350918,
+      "part_population_fournisseur_us": 67.1
+    },
+    "Vaud": {
+      "communes": 300,
+      "Microsoft 365": 180,
+      "Google Workspace": 2,
+      "Prestataire suisse": 89,
+      "Infrastructure publique": 7,
+      "Passerelle de filtrage (plateforme non identifiée)": 6,
+      "Serveur au nom de la commune": 12,
+      "Autre": 2,
+      "Non déterminé": 2,
+      "part_microsoft_365": 60.0,
+      "population_2025": 863650,
+      "part_population_fournisseur_us": 48.3
+    },
+    "Valais": {
+      "communes": 122,
+      "Microsoft 365": 74,
+      "Prestataire suisse": 37,
+      "Passerelle de filtrage (plateforme non identifiée)": 2,
+      "Serveur au nom de la commune": 8,
+      "Non déterminé": 1,
+      "part_microsoft_365": 60.7,
+      "population_2025": 376113,
+      "part_population_fournisseur_us": 42.7
+    },
+    "Neuchâtel": {
+      "communes": 24,
+      "Prestataire suisse": 1,
+      "Infrastructure publique": 21,
+      "Passerelle de filtrage (plateforme non identifiée)": 1,
+      "Serveur au nom de la commune": 1,
+      "part_microsoft_365": 0.0,
+      "population_2025": 180365,
+      "part_population_fournisseur_us": 0.0
+    },
+    "Genève": {
+      "communes": 45,
+      "Microsoft 365": 1,
+      "Prestataire suisse": 1,
+      "Infrastructure publique": 43,
+      "part_microsoft_365": 2.2,
+      "population_2025": 537084,
+      "part_population_fournisseur_us": 39.3
+    },
+    "Jura": {
+      "communes": 51,
+      "Microsoft 365": 15,
+      "Prestataire suisse": 30,
+      "Passerelle de filtrage (plateforme non identifiée)": 1,
+      "Serveur au nom de la commune": 4,
+      "Non déterminé": 1,
+      "part_microsoft_365": 29.4,
+      "population_2025": 82231,
+      "part_population_fournisseur_us": 15.4
+    }
+  },
+  "fournisseurs_suisses": {
+    "Infomaniak": 94,
+    "SIACG (informatique intercommunale genevoise)": 43,
+    "Canton de Neuchâtel (infrastructure ne.ch)": 21,
+    "AZ Informatique": 14,
+    "Evok": 13,
+    "CIGES SA, Sion (filtrage Proofpoint)": 13,
+    "T.I. Informatique": 8,
+    "rcv.ch (infrastructure de messagerie de l'État de Vaud)": 7,
+    "Witecom": 6,
+    "Telecomservices": 5,
+    "Rhône.ch": 4,
+    "PC Profi": 4,
+    "Ruf Cloud": 3,
+    "Swisscenter": 3,
+    "Senselan": 2,
+    "Horus": 2,
+    "VTX": 2,
+    "Netplus": 2,
+    "Safecenter": 1,
+    "Swisscom (adresse grand public bluewin.ch)": 1,
+    "Cleanmail": 1,
+    "Swizzonic": 1,
+    "Swisscom (adresse grand public bluemail.ch)": 1,
+    "DLNet": 1,
+    "JSE": 1,
+    "Hostpoint": 1
+  },
+  "us_ou_filtrage_us": 373,
+  "population_2025": 2390361,
+  "population_par_juridiction": {
+    "Plateforme d'un fournisseur américain": 1037241,
+    "Prestataire ou infrastructure suisse": 939376,
+    "Prestataire suisse avec filtrage par un fournisseur américain": 114495,
+    "Non déterminé": 299249
+  },
+  "population_par_categorie": {
+    "Microsoft 365": 1035885,
+    "Google Workspace": 1356,
+    "Prestataire suisse": 393756,
+    "Infrastructure publique": 614194,
+    "Passerelle de filtrage (plateforme non identifiée)": 81791,
+    "Serveur au nom de la commune": 258930,
+    "Autre": 2121,
+    "Non déterminé": 2328
+  },
+  "par_taille": {
+    "< 1 000 hab.": {
+      "communes": 281,
+      "Microsoft 365": 139,
+      "Google Workspace": 1,
+      "Prestataire suisse": 106,
+      "Infrastructure publique": 10,
+      "Passerelle de filtrage (plateforme non identifiée)": 3,
+      "Serveur au nom de la commune": 17,
+      "Autre": 1,
+      "Non déterminé": 4,
+      "part_microsoft_365": 49.5
+    },
+    "1 000 – 4 999": {
+      "communes": 282,
+      "Microsoft 365": 180,
+      "Google Workspace": 1,
+      "Prestataire suisse": 59,
+      "Infrastructure publique": 32,
+      "Passerelle de filtrage (plateforme non identifiée)": 4,
+      "Serveur au nom de la commune": 4,
+      "Autre": 1,
+      "Non déterminé": 1,
+      "part_microsoft_365": 63.8
+    },
+    "5 000 – 19 999": {
+      "communes": 81,
+      "Microsoft 365": 31,
+      "Google Workspace": 0,
+      "Prestataire suisse": 16,
+      "Infrastructure publique": 20,
+      "Passerelle de filtrage (plateforme non identifiée)": 8,
+      "Serveur au nom de la commune": 6,
+      "Autre": 0,
+      "Non déterminé": 0,
+      "part_microsoft_365": 38.3
+    },
+    "≥ 20 000": {
+      "communes": 17,
+      "Microsoft 365": 4,
+      "Google Workspace": 0,
+      "Prestataire suisse": 2,
+      "Infrastructure publique": 9,
+      "Passerelle de filtrage (plateforme non identifiée)": 0,
+      "Serveur au nom de la commune": 2,
+      "Autre": 0,
+      "Non déterminé": 0,
+      "part_microsoft_365": 23.5
+    }
+  },
+  "spf_microsoft_hors_m365": 21
+}
